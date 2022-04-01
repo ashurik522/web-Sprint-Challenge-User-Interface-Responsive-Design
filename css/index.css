@@ -441,6 +441,11 @@ button{
     .right .links{
        flex-direction: column;
        width: auto;
+       padding: 2%;
+    }
+    .copyright{
+        width: auto;
+        margin-left: 10%;
     }
    
     
