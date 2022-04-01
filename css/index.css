@@ -75,6 +75,9 @@ h1, h2, h3, h4, h5, h6, p, a, i {
 h1 {
     font-size: 7.5rem;
 }
+h1 a{
+    font-size: 7.5rem;
+}
 
 h2 {
     font-size: 6rem;
@@ -113,6 +116,8 @@ header div, nav{
 .links {
     display: flex;
     justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 .social {
     display: flex;
@@ -120,8 +125,6 @@ header div, nav{
     padding-left: 40%;
     padding-right: 40%;
 }
-
-
 
 
 /* spacers */
