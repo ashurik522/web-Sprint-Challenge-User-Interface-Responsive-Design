@@ -293,7 +293,12 @@ button{
         color: black;
     }
 
-    men
+    .menu h4{
+        font-size: 3rem;
+    }
+    .menu p{
+        font-size: 2rem;
+    }
     
     
     .menu {
@@ -309,7 +314,7 @@ button{
         border-bottom: 10px solid black;
         margin-left: 6%;
         margin-right:6%;
-
+        margin-bottom: 10%;
     }
     .menu-section{
         width: 100%;
@@ -328,6 +333,10 @@ button{
         border-bottom: 4px solid black;
         margin-left: 10%;
         margin-right: 10%;
+    }
+
+    .menu-item:last-child{
+        border-bottom: none;
     }
     
 
