@@ -288,13 +288,14 @@ button{
     flex-direction: column;
   }
   
-  .right .links{
-      width: 100%;
-      display: flex;
-  }
-  .copyright{
-      font-size: 2rem;
-  }
+.right .links{
+    width: 100%;
+    display: flex;
+}
+.copyright{
+    font-size: 2rem;
+    margin-right: 10%;
+ }
 .mailinglist{
     display: flex;
     flex-direction: column;
