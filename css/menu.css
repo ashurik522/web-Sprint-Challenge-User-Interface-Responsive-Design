@@ -86,7 +86,7 @@ h4 {
     color: rgb(225, 239, 230);
 }
 
-p, a {
+p {
     font-size: 3rem;
     color: rgb(225, 239, 230);
 }
@@ -112,6 +112,14 @@ header div, nav, h1{
     justify-content: space-around;
     padding-left: 5%;
     padding-right: 5%;
+}
+.title a{
+    font-size: 7.5rem;
+    color: rgb(225, 239, 230);
+}
+nav a{
+    font-size: 3rem;
+    color: rgb(225, 239, 230);
 }
 .social {
     display: flex;
